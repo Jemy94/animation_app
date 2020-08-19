@@ -2,4 +2,5 @@
     <string name="app_name">Animation App</string>
     <string name="start_vertical_animation">Throw Vertical</string>
     <string name="start_horizontal_animation">Throw Horizontal</string>
+    <string name="start_animation">Start Animation</string>
 </resources>
